@@ -18,7 +18,7 @@ const DashboardExample = () => {
     id: '1',
     name: 'John Doe',
     email: 'john.doe@example.com',
-    role: 'student', // Can be 'student', 'teacher', or 'admin'
+    role: 'STUDENT', // Can be 'STUDENT', 'TEACHER', 'FINANCE', or 'SUPER_ADMIN'
     avatar: '', // Optional: URL to user avatar
   };
 

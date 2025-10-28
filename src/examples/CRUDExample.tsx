@@ -20,7 +20,7 @@ const CRUDExample = () => {
     id: '1',
     name: 'Admin User',
     email: 'admin@example.com',
-    role: 'admin',
+    role: 'SUPER_ADMIN',
   };
 
   // Mock data for the table

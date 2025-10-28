@@ -1,6 +1,6 @@
 'use client';
 
-export default function Reports_&_AnalyticsPage() {
+export default function ReportsAndAnalyticsPage() {
   return (
     <div className="p-8">
       <div className="mb-8">
