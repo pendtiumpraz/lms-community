@@ -112,13 +112,28 @@ A production-ready Learning Management System featuring role-based access contro
 
 Comprehensive documentation is included in the repository:
 
+### Getting Started
 - **[START_HERE.md](START_HERE.md)** - Navigation guide to all documentation
 - **[PROJECT_COMPLETE.md](PROJECT_COMPLETE.md)** - Complete project overview
+- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Code snippets and examples
+
+### Setup Guides
 - **[AUTHENTICATION_SETUP.md](AUTHENTICATION_SETUP.md)** - Google OAuth configuration (detailed)
 - **[GOOGLE_DRIVE_INTEGRATION.md](GOOGLE_DRIVE_INTEGRATION.md)** - File upload setup
 - **[DATABASE_DOCUMENTATION.md](DATABASE_DOCUMENTATION.md)** - Database schema details
+
+### Component Reference
 - **[COMPONENTS_README.md](COMPONENTS_README.md)** - UI component reference
-- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Code snippets and examples
+- **[COMPONENTS_SUMMARY.md](COMPONENTS_SUMMARY.md)** - Component overview
+
+### Contributing
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Contribution guidelines
+- **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** - Community standards
+- **[SECURITY.md](SECURITY.md)** - Security policy
+
+### Changelog & License
+- **[CHANGELOG.md](CHANGELOG.md)** - Version history and changes
+- **[LICENSE](LICENSE)** - MIT License
 
 ## 🏗️ Tech Stack
 
@@ -253,7 +268,9 @@ See [PROJECT_COMPLETE.md](PROJECT_COMPLETE.md) for detailed deployment instructi
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before submitting a Pull Request.
+
+### Quick Contributing Steps
 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -261,9 +278,15 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines, coding standards, and commit message conventions.
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🔒 Security
+
+We take security seriously. If you discover a security vulnerability, please email pendtiumpraz@gmail.com instead of using the issue tracker. See [SECURITY.md](SECURITY.md) for more information.
 
 ## 🙏 Acknowledgments
 
